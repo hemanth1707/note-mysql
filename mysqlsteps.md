@@ -79,7 +79,7 @@ password:.......
 *Select database
 ```
 mysql> use dbname;
-``
+```
 *create table
 ```
 mysql>CREATE TABLE table_name(column_name column_type..);
